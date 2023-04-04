@@ -9,6 +9,7 @@ Latihan membuat fungsi menggunakan method Math
    Dengan ketentuan :
     - Jika nilai `min` dan `max` adalah `null`, maka function mengembalikan nilai `0`
     - Jika nilai `max` adalah `null`, maka nilai `min` menjadi `0` dan `max` mengambil nilai dari `min`
+   
    Pengambilan nilai random menggunakan method `Math.random()`.
    
 2. Membuat function bernama `chooseDesimals` untuk menentukan batas desimal yang akan ditampilkan dari sebuah angka desimal menggunakan method `toFixed()`. Function ini menerima 2 inputan, yaitu :
