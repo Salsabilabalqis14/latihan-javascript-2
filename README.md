@@ -20,5 +20,4 @@ Latihan membuat fungsi menggunakan method Math
      - Jika `isNaN(x)` benar atau bernilai true, maka function akan mengembalikan `false`
      - Jika tidak, maka function akan mengembalikan `true`.
 
-4. Membuat function bernama `roundUpToFive` untuk membulatkan nilai ke atas dalam kelipatan 5. Function ini akan menerima satu inputan `num`. Pembulatan ke atas dilakukan dengan 
-   menggunakan method `Math.ceil()` yang diberi argumen berupa nilai dari variable `num` dibagi (/) dengan 5, kemudian hasilnya dikali dengan 5 untuk mendapatkan nilai kelipatan 5.
+4. Membuat function bernama `roundUpToFive` untuk membulatkan nilai ke atas dalam kelipatan 5. Function ini akan menerima satu inputan `num`. Pembulatan ke atas dilakukan dengan menggunakan method `Math.ceil()` yang diberi argumen berupa nilai dari variable `num` dibagi (/) dengan 5, kemudian hasilnya dikali (*) dengan 5 untuk mendapatkan nilai kelipatan 5.
